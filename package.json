@@ -7,7 +7,7 @@
     "test": "jest --detectOpenHandles",
     "build": "npx tsc",
     "lint": "eslint src/**/*.ts",
-    "start": "ls . && node src/index.js",
+    "start": "ls . && node dist/index.js",
     "dev": "nodemon src/index.ts"
   },
   "engines": {
