@@ -1,0 +1,23 @@
+{
+  "name": "fillout_screen",
+  "version": "1.0.0",
+  "description": "Technical screen for Fillout engineering team",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fillout_screen"
+  },
+  "keywords": [
+    "fillout",
+    "engineering",
+    "screen",
+    "express",
+    "node",
+    "form"
+  ],
+  "author": "Jay Ayinla",
+  "license": "ISC"
+}
