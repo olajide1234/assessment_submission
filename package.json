@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Technical screen for Fillout engineering team",
   "main": "index.ts",
-  "type": "module",
   "scripts": {
     "test": "jest --detectOpenHandles",
     "build": "npx tsc",
